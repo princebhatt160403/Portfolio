@@ -937,8 +937,7 @@ img{
     margin: 0 0 0 80vw;
     padding: 0 0 0 0;
 }
-
-@media only screen and (max-width:600px){
+@media only screen and (max-width:900px){
     
     .nav1 img{
         width: 100%;
@@ -950,12 +949,6 @@ img{
     }
     .imgtxt ul li a{
         padding: 5px 10px;
-    }
-    .btxt h2 h3 h4 button a{
-        position: unset;
-        transform: none;
-        padding-top: 15px;
-        font-size: 10px;
     }
     .b2 button{
         font-size: 10px;
@@ -1027,49 +1020,54 @@ img{
         height: 10%;
     }
     .btxt h2{
-        top: 20vh;
+        top: 15vh;
         font-size: 2%;
         margin: 0 0 0 0;
     }
     .btxt h3{
-        top: 20vh;
+        top: 15vh;
         font-size: 2%;
         margin: 0 0 0 35px;
     }
     .btxt h4{
-        top: 20vh;
+        top: 17vh;
         font-size: 2%;
         margin: 20px 0 0 0;
     }
     .btxt button a{
         position: absolute;
-        top: -39vh;
+        top: -42vh;
         font-size: 10px;
         margin: -2px 2px 4px -20px;
     }
     .b2 button{
         position: absolute;
-        top: 29vh;
-        font-size: 7px;
-        margin: 0px 0px 0px 55px;
+    top: 20vh;
+    font-size: 7px;
+    margin: 0px 0px 0px 110px;
     }
     .container h1{
-        top: 215px;
+        top: 25vh;
         font-size: 2%;
         margin: 20px 0 0 0;
     }
     .container h2{
-        top: 225px;
+        top: 28vh;
         font-size: 2%;
         margin: 20px 0 0 0;
     }
     .container p{
-        top: 235px;
+        top: 30vh;
         font-size: 2%;
         margin: 20px 0 0 0;
     }
     .container button{
         top: 250px;
+        font-size: 2%;
+        margin: 20px 0 0 0;
+    }
+    .contact button p{
+        top: 50vh;
         font-size: 2%;
         margin: 20px 0 0 0;
     }
@@ -1109,141 +1107,141 @@ img{
         height: 10px;
     }
     .protxt h2{
-        top: 440px;
+        top: 52vh;
         font-size: 8%;
         margin: 27px 1px 0 33px;
         /* width: 7px; */
         /* height: 10px; */
     }
     .protxt h1 button a{
-        top: 450px;
+        top: 54vh;
         font-size: 60%;
         margin: 27px 1px 0 33px;
         /* width: 7px; */
         /* height: 10px; */
     }
     .protxt1 h1 button a{
-        top: 460px;
+        top: 57vh;
         font-size: 60%;
         margin: 27px 1px 0 33px;
     }
     .protxt2 h1 button a{
-        top: 470px;
+        top: 60vh;
         font-size: 60%;
         margin: 27px 1px 0 33px;
     }
     .netlog a img{
-        top: 460px;
+        top: 54vh;
         /* font-size: 60%; */
         margin: 27px 1px 0 175px;
         width: 10%;
         height: 5%;
     }
     .spolog a img{
-        top: 460px;
+        top: 54vh;
         /* font-size: 60%; */
         margin: 27px 1px 0 230px;
         width: 10%;
         height: 5%;
     }
     .ox a img{
-        top: 460px;
+        top: 54vh;
         /* font-size: 60%; */
         margin: 27px 1px 0 275px;
         width: 10%;
         height: 5%;
     }
     .git a img{
-        top: 545px;
+        top: 66vh;
         /* font-size: 60%; */
         margin: 27px 1px 0 100px;
         width: 3%;
         height: 2%;
     }
     .git p{
-        top: 590px;
+        top: 72vh;
         margin: 0 0 0 25px;
         font-size: 10px;
     }
     .gallery h1{
-        top: 690px;
-        margin: 0 0 0 210px;
+        top: 82vh;
+        margin: 0 0 0 260px;
         font-size: 10px;
     }
     .des h1{
-        top: 720px;
+        top: 82vh;
         margin: 0 0 0 10px;
         font-size: 10px;
     }
     .link h1{
-        top: 825px;
-        margin: 0 0 0 60px;
+        top: 100vh;
+        margin: 0 0 0 120px;
         font-size: 10px;
     }
     .link p button a{
-        top: 840px;
-        margin: 0 0 0 110px;
+        top: 103vh;
+        margin: 0 0 0 165px;
         font-size: 10px;
     }
     .cer{
-        top: 739px;
+        top: 88vh;
         width: 30%;
         height: 12%;
-        margin: 20px 0 0 280px;
+        margin: 20px 0 0 300px;
     }
     .login input{
-        top: 920px;
+        top: 109vh;
         margin: 0 0 0 0;
         width: 80px;
         height: 15px
     }
     .em input{
-        top: 950px;
+        top: 111vh;
         /* widht: -34px; */
         margin: 0 0 0 0;
         height: 20px;
         width: 80px;
     }
     .msg textarea{
-        top: 990px;
+        top: 115vh;
         margin: 0 0 0 0;
         width: 125px;
         height: 75px;
     }
     .msg button a{
-        top: 1075px;
+        top: 124vh;
         margin: 0 0 0 20px;
         width: 20px;
         height: 10px;
     }
     .lst h1{
-        top: 1089px;
+        top: 130vh;
         margin: 5px 0 0 20px;
         /* width: 264px; */
         /* height: -12px; */
-        font-size: 10px;
+        font-size: 8px;
     }
     .lst p{
-        top: 1089px;
+        top: 125vh;
         margin: -20px 0 0 200px;
         /* width: 264px; */
         font-size: 10px;
     }
     .ig h1{
-        top: 1089px;
+        top: 127vh;
         margin: -7px 0 0 200px;
         /* width: 264px; */
         font-size: 10px;
     }
     .ig a img{
-        top: 1089px;
+        top: 130vh;
         margin: 8px 0 0 210px;
         width: 11px;
         /* font-size: 10px; */
         height: 10px
     }
     .in a img{
-        top: 1089px;
+        top: 130vh;
         margin: 8px 0 0 230px;
         width: 10px;
         /* font-size: 10px; */
@@ -1258,8 +1256,22 @@ img{
     .des p{
         visibility: hidden;
     }
+    .wnumber p{
+        visibility: hidden;
+    }
+
 }
-    
+.wnumber p{
+    font-size: 20px;
+    text-size-adjust:inherit;
+    text-align: center;
+    position: absolute;
+    top: 193vh;
+    border-color: gainsboro;
+    background-color: transparent;
+    cursor: pointer;
+    color: gainsboro;
+}    
 
 
 
