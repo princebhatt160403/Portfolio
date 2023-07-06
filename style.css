@@ -1107,7 +1107,7 @@ img{
         height: 10px;
     }
     .protxt h2{
-        top: 52vh;
+        top: 60vh;
         font-size: 8%;
         margin: 27px 1px 0 33px;
         /* width: 7px; */
@@ -1190,32 +1190,32 @@ img{
         margin: 20px 0 0 300px;
     }
     .login input{
-        top: 109vh;
+        top: 115vh;
         margin: 0 0 0 0;
         width: 80px;
         height: 15px
     }
     .em input{
-        top: 111vh;
+        top: 120vh;
         /* widht: -34px; */
         margin: 0 0 0 0;
         height: 20px;
         width: 80px;
     }
     .msg textarea{
-        top: 115vh;
+        top: 125vh;
         margin: 0 0 0 0;
         width: 125px;
         height: 75px;
     }
     .msg button a{
-        top: 124vh;
+        top: 130vh;
         margin: 0 0 0 20px;
         width: 20px;
         height: 10px;
     }
     .lst h1{
-        top: 130vh;
+        top: 133vh;
         margin: 5px 0 0 20px;
         /* width: 264px; */
         /* height: -12px; */
