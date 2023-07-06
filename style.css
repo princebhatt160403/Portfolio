@@ -937,3 +937,331 @@ img{
     margin: 0 0 0 80vw;
     padding: 0 0 0 0;
 }
+
+@media only screen and (max-width:600px){
+    
+    .nav1 img{
+        width: 100%;
+        height: 100%;
+    }
+    .imgtxt1 img{
+        width: 5px ;
+        height: 8px;
+    }
+    .imgtxt ul li a{
+        padding: 5px 10px;
+    }
+    .btxt h2 h3 h4 button a{
+        position: unset;
+        transform: none;
+        padding-top: 15px;
+        font-size: 10px;
+    }
+    .b2 button{
+        font-size: 10px;
+        padding: auto;
+    }
+    .content h3 ul li a{
+        margin: auto;
+        padding: auto;
+        font-size: 10px;
+    }
+    .container img{
+        width: 100%;
+        height: 100%;
+    }
+    .contact button img{
+        font-size: small;
+    }
+    .contact2 button img{
+        font-size: small;
+    }
+    .project img{
+        width: 100%;
+        height: 100%;
+    }
+    .protxt h1 h2{
+        font-style: 10px;
+    }
+    .netlog a img{
+        size: 5%;
+    }
+    .spolog a img{
+        size: 5%;
+    }
+    .ox a img{
+        size: 5%;
+    }
+    .gallery img{
+        width: 100%;
+        height: 100%;
+    }
+    .link h1 p button a{
+        font-size: 5px;
+
+    }
+    .cer {
+        width: 40%;
+        height: 50%;
+    }
+    .foot img{
+        width: 100%;
+        height: 100%;
+    }
+    .login input{
+        font-size: 20px;
+    }
+    .em input{
+        font-size: 20px;
+    }
+    .msg textarea{
+        font-size: medium;
+    }
+    .imgtxt ul li a{
+        font-size: 5%;
+        display: inline;
+        list-style: none;
+    }
+    .imgtxt1 a img{
+        width: 8%;
+        height: 10%;
+    }
+    .btxt h2{
+        top: 20vh;
+        font-size: 2%;
+        margin: 0 0 0 0;
+    }
+    .btxt h3{
+        top: 20vh;
+        font-size: 2%;
+        margin: 0 0 0 35px;
+    }
+    .btxt h4{
+        top: 20vh;
+        font-size: 2%;
+        margin: 20px 0 0 0;
+    }
+    .btxt button a{
+        position: absolute;
+        top: -39vh;
+        font-size: 10px;
+        margin: -2px 2px 4px -20px;
+    }
+    .b2 button{
+        position: absolute;
+        top: 29vh;
+        font-size: 7px;
+        margin: 0px 0px 0px 55px;
+    }
+    .container h1{
+        top: 215px;
+        font-size: 2%;
+        margin: 20px 0 0 0;
+    }
+    .container h2{
+        top: 225px;
+        font-size: 2%;
+        margin: 20px 0 0 0;
+    }
+    .container p{
+        top: 235px;
+        font-size: 2%;
+        margin: 20px 0 0 0;
+    }
+    .container button{
+        top: 250px;
+        font-size: 2%;
+        margin: 20px 0 0 0;
+    }
+    .contact button img{
+        top: 79px;
+        font-size: 8%;
+        margin: 27px 1px 0 130px;
+        width: 7px;
+        height: 10px;
+    }
+    .contact2 button img{
+        top: 79px;
+        font-size: 8%;
+        margin: 27px 1px 0 150px;
+        width: 7px;
+        height: 10px;
+    }
+    .content h3{
+        top: 160px;
+        font-size: 12%;
+        margin: 27px 1px 0 150px;
+        width: 50px;
+        height: 10px;
+    }
+    .content ul  li a{
+        top: 160px;
+        font-size: 12%;
+        margin: 30px 1px 0 100px;
+        width: 50px;
+        height: 10px;
+    }
+    .contact2 p{
+        top: 375px;
+        font-size: 8%;
+        margin: 27px 1px 0 130px;
+        width: 7px;
+        height: 10px;
+    }
+    .protxt h2{
+        top: 440px;
+        font-size: 8%;
+        margin: 27px 1px 0 33px;
+        /* width: 7px; */
+        /* height: 10px; */
+    }
+    .protxt h1 button a{
+        top: 450px;
+        font-size: 60%;
+        margin: 27px 1px 0 33px;
+        /* width: 7px; */
+        /* height: 10px; */
+    }
+    .protxt1 h1 button a{
+        top: 460px;
+        font-size: 60%;
+        margin: 27px 1px 0 33px;
+    }
+    .protxt2 h1 button a{
+        top: 470px;
+        font-size: 60%;
+        margin: 27px 1px 0 33px;
+    }
+    .netlog a img{
+        top: 460px;
+        /* font-size: 60%; */
+        margin: 27px 1px 0 175px;
+        width: 10%;
+        height: 5%;
+    }
+    .spolog a img{
+        top: 460px;
+        /* font-size: 60%; */
+        margin: 27px 1px 0 230px;
+        width: 10%;
+        height: 5%;
+    }
+    .ox a img{
+        top: 460px;
+        /* font-size: 60%; */
+        margin: 27px 1px 0 275px;
+        width: 10%;
+        height: 5%;
+    }
+    .git a img{
+        top: 545px;
+        /* font-size: 60%; */
+        margin: 27px 1px 0 100px;
+        width: 3%;
+        height: 2%;
+    }
+    .git p{
+        top: 590px;
+        margin: 0 0 0 25px;
+        font-size: 10px;
+    }
+    .gallery h1{
+        top: 690px;
+        margin: 0 0 0 210px;
+        font-size: 10px;
+    }
+    .des h1{
+        top: 720px;
+        margin: 0 0 0 10px;
+        font-size: 10px;
+    }
+    .link h1{
+        top: 825px;
+        margin: 0 0 0 60px;
+        font-size: 10px;
+    }
+    .link p button a{
+        top: 840px;
+        margin: 0 0 0 110px;
+        font-size: 10px;
+    }
+    .cer{
+        top: 739px;
+        width: 30%;
+        height: 12%;
+        margin: 20px 0 0 280px;
+    }
+    .login input{
+        top: 920px;
+        margin: 0 0 0 0;
+        width: 80px;
+        height: 15px
+    }
+    .em input{
+        top: 950px;
+        /* widht: -34px; */
+        margin: 0 0 0 0;
+        height: 20px;
+        width: 80px;
+    }
+    .msg textarea{
+        top: 990px;
+        margin: 0 0 0 0;
+        width: 125px;
+        height: 75px;
+    }
+    .msg button a{
+        top: 1075px;
+        margin: 0 0 0 20px;
+        width: 20px;
+        height: 10px;
+    }
+    .lst h1{
+        top: 1089px;
+        margin: 5px 0 0 20px;
+        /* width: 264px; */
+        /* height: -12px; */
+        font-size: 10px;
+    }
+    .lst p{
+        top: 1089px;
+        margin: -20px 0 0 200px;
+        /* width: 264px; */
+        font-size: 10px;
+    }
+    .ig h1{
+        top: 1089px;
+        margin: -7px 0 0 200px;
+        /* width: 264px; */
+        font-size: 10px;
+    }
+    .ig a img{
+        top: 1089px;
+        margin: 8px 0 0 210px;
+        width: 11px;
+        /* font-size: 10px; */
+        height: 10px
+    }
+    .in a img{
+        top: 1089px;
+        margin: 8px 0 0 230px;
+        width: 10px;
+        /* font-size: 10px; */
+        height: 10px;
+    }
+    .que h1{
+       visibility: hidden;
+    }
+    .que a img{
+        visibility: hidden;
+    }
+    .des p{
+        visibility: hidden;
+    }
+}
+    
+
+
+
+
+
